@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Counter_app</string>
+    <string name="countNumber">0</string>
+    <string name="plusButton">+1</string>
+    <string name="clearButton">クリア</string>
+    <string name="minusButton">-1</string>
+</resources>
